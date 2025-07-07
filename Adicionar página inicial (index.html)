@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Speak Up - Aprenda Inglês de Forma Divertida</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f7f9fc;
+      color: #333;
+    }
+    header {
+      background: #3B82F6;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    section {
+      padding: 30px 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+    .benefits {
+      background: #e0f2fe;
+      border-radius: 10px;
+      padding: 20px;
+      margin-top: 20px;
+    }
+    .price {
+      font-size: 1.5em;
+      font-weight: bold;
+      margin: 20px 0;
+      color: #10b981;
+    }
+    .cta-button {
+      background: #22c55e;
+      color: white;
+      padding: 15px 25px;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.2em;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Speak Up</h1>
+    <p>Aprenda inglês de forma divertida e prática</p>
+  </header>
+
+  <section>
+    <h2>Domine o Inglês de um Jeito Leve</h2>
+    <p>O curso <strong>Speak Up</strong> foi feito para quem quer finalmente falar inglês com confiança, sem métodos cansativos ou enrolação. Ideal para iniciantes ou quem quer destravar a fala de forma leve.</p>
+
+    <div class="benefits">
+      <h3>O que você vai encontrar:</h3>
+      <ul>
+        <li>✔ Aulas diretas ao ponto</li>
+        <li>✔ Método divertido e leve</li>
+        <li>✔ Conteúdo prático para o dia a dia</li>
+        <li>✔ Acesso imediato e vitalício</li>
+        <li>✔ Suporte via WhatsApp</li>
+      </ul>
+    </div>
+
+    <p class="price">🔥 Apenas R$ 33,90</p>
+
+    <a
+      class="cta-button"
+      href="https://wa.me/55SEUNUMERO?text=Quero%20me%20inscrever%20no%20Speak%20Up!"
+      target="_blank"
+      >Quero me inscrever</a
+    >
+  </section>
+
+  <footer>
+    <p>© 2025 Speak Up. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
